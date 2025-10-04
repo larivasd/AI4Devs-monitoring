@@ -101,6 +101,28 @@ El dashboard incluye las siguientes métricas:
 - **Application Response Time**: Tiempo de respuesta de aplicaciones
 - **Instance Count**: Total de instancias EC2
 
+### 📸 Capturas de Pantalla del Dashboard
+
+A continuación se muestran las capturas de pantalla del dashboard de Datadog con las métricas recogidas por el agente:
+
+#### Dashboard Principal
+![Dashboard Principal](images_dashboards/dashboard.png)
+
+#### Métricas de CPU
+![Uso de CPU](images_dashboards/CPUUsage.png)
+
+#### Métricas de Memoria
+![Uso de Memoria](images_dashboards/MemorySpace.png)
+![Alto Uso de Memoria](images_dashboards/HihgMemoryUsage.png)
+![Tráfico de Memoria](images_dashboards/MemoryTraffic.png)
+
+#### Métricas de Disco
+![Uso de Disco](images_dashboards/DiskUsage.png)
+![Latencia de Disco](images_dashboards/DiskLatency.png)
+
+#### Carga del Sistema
+![Carga del Sistema](images_dashboards/SystemLoad.png)
+
 ## 🚨 Alertas Configuradas
 
 ### CPU Alta
